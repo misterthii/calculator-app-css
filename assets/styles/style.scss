@@ -1,0 +1,11 @@
+@use "./theme/variable";
+@use "./theme/theme";
+@use "./module/flex";
+@use "./module/main";
+
+:root{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    margin: 0 20%;
+}

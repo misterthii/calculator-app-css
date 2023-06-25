@@ -1,0 +1,29 @@
+.space-between, .flex-center, .flex {
+  display: flex;
+}
+
+.flex-center {
+  align-items: center;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.j-c-center {
+  justify-content: center;
+}
+
+main section {
+  height: 100vh;
+}
+
+:root {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  margin: 0 20%;
+}
+
+/*# sourceMappingURL=style.css.map */

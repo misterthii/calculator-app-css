@@ -1,0 +1,38 @@
+$primary-chroma: 210;
+$secondary-chroma: 360;
+
+
+$swatch-1: oklch(99% .05 $primary-chroma);
+$swatch-2: oklch(90% .1 $primary-chroma);
+$swatch-3: oklch(80% .2 $primary-chroma);
+$swatch-4: oklch(72% .25 $primary-chroma);
+$swatch-5: oklch(67% .31 $primary-chroma);
+$swatch-6: oklch(50% .27 $primary-chroma);
+$swatch-7: oklch(35% .25 $primary-chroma);
+$swatch-8: oklch(25% .2 $primary-chroma);
+$swatch-9: oklch(13% .2 $primary-chroma);
+$swatch-10: oklch(5% .1 $primary-chroma);
+
+$text-1: $swatch-2;
+$text-2: $swatch-3;
+$surface-1: $swatch-10;
+$surface-2: $swatch-9;
+$surface-3: $swatch-8;
+
+$swatch2-1: oklch(99% .05 $secondary-chroma);
+$swatch2-2: oklch(90% .1 $secondary-chroma);
+$swatch2-3: oklch(80% .2 $secondary-chroma);
+$swatch2-4: oklch(72% .25 $secondary-chroma);
+$swatch2-5: oklch(67% .31 $secondary-chroma);
+$swatch2-6: oklch(50% .27 $secondary-chroma);
+$swatch2-7: oklch(35% .25 $secondary-chroma);
+$swatch2-8: oklch(25% .2 $secondary-chroma);
+$swatch2-9: oklch(13% .2 $secondary-chroma);
+$swatch2-10: oklch(5% .1 $secondary-chroma);
+
+$text2-1: $swatch2-1;
+$text2-2: $swatch2-2;
+$surface2-1: $swatch2-10;
+$surface2-2: $swatch2-9;
+$surface2-3: $swatch2-8;
+
