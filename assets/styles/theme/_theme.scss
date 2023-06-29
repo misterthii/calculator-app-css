@@ -1,4 +1,12 @@
 @import "./variable";
-html{
-    
+body{
+    background-color: $surface-3;
+}
+button{
+    background-color: $surface2-3;
+    color: $text-2
+}
+input{
+    background-color: $text-2;
+    color: $surface2-2;
 }

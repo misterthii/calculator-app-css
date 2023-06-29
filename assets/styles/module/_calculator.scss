@@ -2,14 +2,11 @@ button, #output, #output > input{
     height: 100%;
     width: 100%;
 }
-
-#output{
-    border: 1px solid black;
+button{
+    font-size: 2rem;
 }
-
 #output input{
-    display: inline;
+    border: 1px solid;
     padding: 0;
-    margin: 0;   
-    font-size: 1.4rem;
+    font-size: 2rem;
 }
