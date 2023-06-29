@@ -27,11 +27,11 @@
 
 .calculette{
     grid-template-areas: 
-    'output     output          output          output clear'
-    'addition   soustraction    multiplication  division M1'
-    'seven height nine puissance M2'
-    'four five six logarithme equal'
-    'one two three dot equal';
+    'output     output          output          output      clear'
+    'addition   soustraction    multiplication  division    M1'
+    'seven      height          nine            puissance   M2'
+    'four       five            six             logarithme  equal'
+    'one        two             three           dot         equal';
     gap: 5px;
     height: 60dvh;
 }
