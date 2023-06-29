@@ -1,0 +1,15 @@
+button, #output, #output > input{
+    height: 100%;
+    width: 100%;
+}
+
+#output{
+    border: 1px solid black;
+}
+
+#output input{
+    display: inline;
+    padding: 0;
+    margin: 0;   
+    font-size: 1.4rem;
+}

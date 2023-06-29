@@ -1,0 +1,37 @@
+.grid{
+    display: grid;
+}
+
+#output{ grid-area: output;}
+#clear{ grid-area: clear;}
+#addition{ grid-area: addition;}
+#soustraction{ grid-area: soustraction;}
+#multiplication{ grid-area: multiplication;}
+#division{ grid-area: division;}
+#M1{ grid-area: M1;}
+#puissance{ grid-area: puissance;}
+#M2{ grid-area: M2;}
+#logarithme{ grid-area: logarithme;}
+#dot{ grid-area: dot;}
+#equal{ grid-area: equal;}
+#seven{ grid-area: seven;}
+#height{ grid-area: height;}
+#nine{ grid-area: nine;}
+#four{ grid-area: four;}
+#five{ grid-area: five;}
+#six{ grid-area: six;}
+#one{ grid-area: one;}
+#two{ grid-area: two;}
+#three{ grid-area: three;}
+
+
+.calculette{
+    grid-template-areas: 
+    'output     output          output          output clear'
+    'addition   soustraction    multiplication  division M1'
+    'seven height nine puissance M2'
+    'four five six logarithme equal'
+    'one two three dot equal';
+    gap: 5px;
+    height: 60dvh;
+}

@@ -1,11 +1,10 @@
+@use "./reset.scss";
 @use "./theme/variable";
 @use "./theme/theme";
 @use "./module/flex";
 @use "./module/main";
-
+@use "./module/grid";
+@use "./module/calculator";
 :root{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-body{
-    margin: 0 20%;
 }
