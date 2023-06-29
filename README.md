@@ -1,6 +1,6 @@
-# calculator-app-html
+# calculator-app-css
 
-This is a simple calculator built using HTML.
+This is a simple calculator built using HTML SCSS.
 
 ## CSS level
 Intermediate
